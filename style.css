@@ -1,0 +1,33 @@
+.button{
+  
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid black;
+
+}
+
+#grey{
+
+    background-color: grey;
+
+}
+
+#white{
+    background-color: white;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#purple{
+    background-color: purple;
+}
+
